@@ -14,9 +14,15 @@ li{
     float: left;
     text-align: justify;
 }
-/* h3{
-    padding: 10px 10px 10px;
+button{
+    border-radius: 10px;
+    background-color: yellow;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
 }
-p{
-    padding: 0px;
-} */
+img{
+    float: inline-end;
+    width: 100px;
+    border-radius: 20px;
+}
